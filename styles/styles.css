@@ -526,6 +526,7 @@ color: #E91E1E;
   }
   
   .fuel-item img {
+    max-width: 100%;
     width: 300px;
     height: auto;
     border-radius: 12px;
