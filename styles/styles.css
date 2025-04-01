@@ -1125,6 +1125,10 @@ footer{
     line-height: 1.2;
     padding: 0 1rem;
 }
+
+  .contact-header {
+    margin-top: 100px;
+  }
 }
 
 
