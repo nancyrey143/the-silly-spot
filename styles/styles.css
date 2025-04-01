@@ -708,7 +708,7 @@ footer{
 
 .contact-header {
     position: relative;
-    background: url(/assets/speech-bubbles.jpeg);
+    background: url('../assets/speech-bubbles.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -796,7 +796,7 @@ footer{
 
 .about-header {
     position: relative;
-    background-image: url(/assets/about-image.jpg);
+    background-image: url('../assets/about-image.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -923,7 +923,7 @@ footer{
     background-color:  #fff6e9; 
    }
     .events-hero{
-    background:url(/assets/header-events.jpg);
+    background:url('../assets/gala-events.jpg');
     background-size: cover;
     padding: 120px 20px;
     text-align: center;    
