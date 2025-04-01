@@ -379,6 +379,7 @@ color: #E91E1E;
 
   }
   .giggles-wrapper::before {
+    left: -25vw;
     content: "";
     position: absolute;
     top: -50px; /* adjust height as needed */
